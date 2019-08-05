@@ -1,5 +1,4 @@
 
-puts say_hello(users_name)
 
 def run(songs)
   while true do
